@@ -1,0 +1,27 @@
+baseURL = "http://aliofcia.ca/"
+languageCode = "en-us"
+title = "Aliofcia"
+
+theme = "coder" # set the theme
+
+[params] # theme parameters
+    author = "Alicia Suttie" # author's name
+    info = "Engineer and groovy human being" # author's job title or info
+    description = "Alicia's personal site" # site description
+    keywords = "developer,personal" # site keywords
+
+    # wether you want to hide copyright and credits in the footer
+    hideCredits = true
+    hideCopyright = true
+    
+# Social links
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/ali-of-cia/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/aliofcia/"
+
+# Menu links

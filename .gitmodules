@@ -3,5 +3,5 @@
 	url = https://github.com/luizdepra/hugo-coder.git
 [submodule "public"]
 	path = public
-	url = git@github.com:ali-of-cia/ali-of-cia.git
+	url = git@github.com:ali-of-cia/ali-of-ciagithub.io.git
 	branch = master

@@ -1,4 +1,4 @@
-baseURL = "https://ali-of-cia.github.io/ali-of-cia/"
+baseURL = "aliofcia.ca"
 languageCode = "en-us"
 title = "Aliofcia"
 publishDir = "docs"

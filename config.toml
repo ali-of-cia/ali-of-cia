@@ -1,6 +1,7 @@
 baseURL = "http://aliofcia.ca/"
 languageCode = "en-us"
 title = "Aliofcia"
+publishDir = "docs"
 
 theme = "coder" # set the theme
 

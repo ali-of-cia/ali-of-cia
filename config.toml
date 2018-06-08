@@ -26,3 +26,7 @@ theme = "coder" # set the theme
     url = "https://www.linkedin.com/in/aliofcia/"
 
 # Menu links
+# [[menu.main]]
+#    name = "About"
+#    weight = 2
+#    url = "/about/"
